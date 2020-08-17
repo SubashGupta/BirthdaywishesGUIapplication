@@ -22,7 +22,8 @@ eg: "C:/Users/Coder/Desktop/project/"
 
 5.Now in line 95 in the place of ROOT2, paste the root of bd.jpg file in between quotes where it is located in the folder.
 
-***PS:  in your gmail go to myaccount --> security -->less secure apps change it to Turn on the access (ON) ***
+***PS:  in your gmail go to myaccount --> security -->less secure apps --> change it to "Turn on the access" (ON) ***
+	if you don't turn it on mail will not be sent.
 
 Now save the file and cross check the code whether all the roots are pasted correctly and then run the code
 using the command : python BirthdaywishesGUIapplication.py
